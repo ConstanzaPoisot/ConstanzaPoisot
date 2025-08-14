@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Constanza Ramírez Poisot</h1>
-<h3 align="center">3D artist and videogame programing enthusiastic</h3>
+<h3 align="center">I create immersive, culturally inspired experiences where art and technology meet.
+With expertise in 3D modeling (Blender, Maya), real-time engines (Unity, Unreal Engine), AR/VR pipelines, and projection mapping (TouchDesigner, Resolume Arena), I design and code interactive worlds that engage, inspire, and connect audiences.</h3>
 
 - 🌱 I’m currently learning **python**
 
